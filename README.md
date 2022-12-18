@@ -8,7 +8,8 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 - Checking for duplicate image hashes
 - Tweet scheduling
 
-## 📓-Point to be noted
+## 📒-Point to be noted
+- The following code is running in [V1.1 ACCESS](https://developer.twitter.com/en/docs/twitter-api/v1) of the [Twitter Developer](https://developer.twitter.com/) in Standalone Apps section.
 
 ## 🚦-Installation
 - Clone the repository by entering the following command in your terminal (Linux, Mac) or Command Prompt (Windows).
