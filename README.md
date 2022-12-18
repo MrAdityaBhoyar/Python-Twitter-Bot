@@ -12,11 +12,13 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 - Clone the repository by entering the following command in your terminal (Linux, Mac) or Command Prompt (Windows).
 - `if u get an error like: 'git' is not recognized as an internal or external command, u need to download Git.` 
 - [For more help visit](https://stackoverflow.com/questions/4492979/git-is-not-recognized-as-an-internal-or-external-command)
+- Or just download the repo
 
 ```
 git clone https://github.com/aadityabhoyar/twitter-meme-bot-python
 ```
-- Or just download the repo
+
+-To get started, you will need to download the library by entering the following command in the terminal.
 
 
 
