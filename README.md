@@ -28,6 +28,6 @@ pip install -r requirements.txt
 
 | Variable                  | 
 | ------------------------- | 
-| YOUR_BOT_PREFIX_HERE      | 
-| YOUR_BOT_TOKEN_HERE       | 
+| api_key     | 
+| api_secret      | 
 
