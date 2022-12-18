@@ -18,7 +18,16 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 git clone https://github.com/aadityabhoyar/twitter-meme-bot-python
 ```
 
--To get started, you will need to download the library by entering the following command in the terminal.
+- To get started, you will need to download the library by entering the following command in the terminal.
 
+```
+pip install -r requirements.txt
+```
 
+- Now fill the important information in [main.py]
+
+| Variable                  | 
+| ------------------------- | 
+| YOUR_BOT_PREFIX_HERE      | 
+| YOUR_BOT_TOKEN_HERE       | 
 
