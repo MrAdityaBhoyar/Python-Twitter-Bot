@@ -7,3 +7,7 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 - Easily customizable
 - Checking for duplicate image hashes
 - Tweet scheduling
+
+## Usage
+
+Generally, configuring the bot is the only requirement for running it.
