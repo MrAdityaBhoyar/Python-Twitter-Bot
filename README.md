@@ -1,2 +1,2 @@
 # Twitter Meme Bot Using Python
-A simple template to make your own Twitter Bot using Python programming language
+This Twitter bot, developed in [Python](https://www.python.org), is designed to retrieve images from Reddit and post them on Twitter.
