@@ -24,7 +24,7 @@ git clone https://github.com/aadityabhoyar/twitter-meme-bot-python
 pip install -r requirements.txt
 ```
 
-- Now fill the important information in [main.py]
+- Now fill the important information in [main.py](https://github.com/aadityabhoyar/twitter-meme-bot-python/blob/main/main.py)
 
 | Variable                  | 
 | ------------------------- | 
