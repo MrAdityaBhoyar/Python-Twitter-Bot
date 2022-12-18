@@ -1,13 +1,22 @@
 # Twitter Meme Bot Using Python
 This Twitter bot, developed in [Python](https://www.python.org), is designed to retrieve images from [Reddit](https://www.reddit.com) and post them on [Twitter](https://www.twitter.com).
 
-## 🔍 - Features
+## 🔍-Features
 
 - Including lightweight features
 - Easily customizable
 - Checking for duplicate image hashes
 - Tweet scheduling
 
-## Installation
+## 🚦-Installation
+- Clone the repository by entering the following command in your terminal (Linux, Mac) or Command Prompt (Windows).
+- `if u get an error like: 'git' is not recognized as an internal or external command, u need to download Git.` 
+- [For more help visit](https://stackoverflow.com/questions/4492979/git-is-not-recognized-as-an-internal-or-external-command)
+
+```
+git clone https://github.com/aadityabhoyar/twitter-meme-bot-python
+```
+- Or just download the repo
+
 
 
