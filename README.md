@@ -8,6 +8,8 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 - Checking for duplicate image hashes
 - Tweet scheduling
 
+## 📓-Point to be noted
+
 ## 🚦-Installation
 - Clone the repository by entering the following command in your terminal (Linux, Mac) or Command Prompt (Windows).
 - `if u get an error like: 'git' is not recognized as an internal or external command, u need to download Git.` 
