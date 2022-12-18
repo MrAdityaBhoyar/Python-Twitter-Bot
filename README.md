@@ -10,7 +10,7 @@ This Twitter bot, developed in [Python](https://www.python.org), is designed to 
 
 ## 📒-Point to be noted
 - The following code is running in [V1.1 ACCESS](https://developer.twitter.com/en/docs/twitter-api/v1) of the [Twitter Developer](https://developer.twitter.com/) in Standalone Apps section.
-<img src =  "https://github.com/aadityabhoyar/repo-asset/blob/main/Twitter%20Meme%20Bot%20Using%20Python/Image01.png">
+<img src =  "https://cdn.discordapp.com/attachments/1054093794414444544/1054095592755839027/Image01.png">
 
 ## 🚦-Installation
 - Clone the repository by entering the following command in your terminal (Linux, Mac) or Command Prompt (Windows).
